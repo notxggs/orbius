@@ -5,7 +5,7 @@
   A feature-rich, modular Discord bot built with Discord.js.
   Designed for invite tracking, community management, and server automation.
 
-  [![Discord](https://img.shields.io/discord/1414217749038891102?color=5865F2&label=Support&logo=discord&logoColor=white)](https://discord.gg/aerox)
+  [![Discord](https://img.shields.io/discord/1452511757426888796?color=5865F2&label=Support&logo=discord&logoColor=white)](https://discord.com/invite/KzB3yzZNP6)
 
   </div>
 
@@ -98,7 +98,7 @@
 
   ```bash
   # 1. Clone the repository
-  git clone https://github.com/AeroXDevs/Orbius.git
+  git clone https://github.com/notxggs/Orbius.git
   cd Orbius
 
   # 2. Install dependencies
@@ -141,9 +141,8 @@
 
   ## Credits
 
-  **Developer** — [itsfizys](https://github.com/itsfizys)
-  **Organisation** — [AeroX Development](https://github.com/AeroXDevs)
-  **Handler** — Built using the [bre4d777/handler](https://github.com/bre4d777/handler) framework by [bre4d777](https://github.com/bre4d777)
+  **Developer** — [NOTX](https://github.com/notxggs)
+  **Organisation** — [NOTX Development]
 
   ---
 
@@ -151,7 +150,7 @@
 
   Join the AeroX Development Discord server for help, updates, and community support.
 
-  **[discord.gg/aerox](https://discord.gg/aerox)**
+  **[discord.gg/notxdev](https://discord.com/invite/KzB3yzZNP6)**
 
   ---
 
